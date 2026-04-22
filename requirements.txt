@@ -1,4 +1,4 @@
-fastapi==0.104.1
+fastapi==9d34ad0ee8a0dfbbcce06f76c2d5d851085024fc
 uvicorn==0.24.0
 pydantic==2.5.0
 httpx==0.25.2
